@@ -34,4 +34,8 @@ Use in **Kali linux**, **Parrot OS** or another pentesting enviroment
 
 - The version 2 of the tool is under construction.
 
+## Help 
+
+- If you have problems or you have an idea you can contact me
+
 [My Blog](https://mikerega7.github.io)
