@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">WifiPwnMec</h1>
+  <h1 align="center">WifiPwnMe</h1>
 </p>
 
 WifiPwnMe.sh - v1 is designed to attack the **WPA2-PSK** protocol to obtain the password of the AccessPoint
