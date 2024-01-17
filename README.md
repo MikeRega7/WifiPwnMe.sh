@@ -38,6 +38,9 @@ Use in **Kali linux**, **Parrot OS** or another pentesting enviroment
 
 - If you have problems or you have an idea you can contact me with Discord
 
-![](contact.png)
+<p align="center">
+<img src="contact.png"
+        style="float: left; margin-right: 10px;" />
+</p>
 
 [My Blog](https://mikerega7.github.io)
