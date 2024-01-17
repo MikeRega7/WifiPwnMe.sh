@@ -36,6 +36,8 @@ Use in **Kali linux**, **Parrot OS** or another pentesting enviroment
 
 ## Help 
 
-- If you have problems or you have an idea you can contact me
+- If you have problems or you have an idea you can contact me with Discord
+
+![](contact.png)
 
 [My Blog](https://mikerega7.github.io)
